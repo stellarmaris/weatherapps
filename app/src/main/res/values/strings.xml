@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+        <!-- String resource for temperature -->
+        <string name="temperature">%s°C</string>
+
+        <!-- String resource for wind speed -->
+        <string name="wind_speed">Wind Speed: %s km/h</string>
+
+        <!-- String resource for coordinates -->
+        <string name="coordinates">Latitude: %s, Longitude: %s</string>
+
+    <string name="latitude">Latitude: %s</string>
+    <string name="longitude">Longitude: %s</string>
+
+</resources>
